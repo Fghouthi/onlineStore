@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Auk (11.0.0):
+    - moa
+  - Kingfisher (7.6.0)
+  - moa (12.0.0)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Auk (~> 11.0)
+  - Kingfisher
+  - moa (~> 12.0)
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Auk
+    - Kingfisher
+    - moa
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Auk: 7cc533252e2caaaa36b2be19c0b799f6057c365a
+  Kingfisher: b9bb0cd6907813593db268be80ddb931423c33b2
+  moa: e2346f12de6c65bbca4d103950d45db9e46785ef
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 6a39f6d15b2bbf9f5e29e70b3622e5af476d23bf
+
+COCOAPODS: 1.11.3
